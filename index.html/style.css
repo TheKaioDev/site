@@ -7,6 +7,7 @@
     --cor04: #32434e;
     --cor05: #5E7F8C;
     --cor06: #050A0D;
+    
 }
 
 body {
@@ -29,7 +30,7 @@ header {
 
 nav a{
     background-color: #050A0D;
-    color: #5E7F8C;
+    color: var(--cor05);
     width: 100%;
     padding: 13px;
     
